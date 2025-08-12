@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Alice Johnson",
+        "staffNumber": "SN1234567890",
+        "email": "alice.johnson@example.com",
+        "phoneNumber": "0788123456",
+        "username": "josephcode",
+        "password": "$2b$10$UWdM5qznJuK.NaIId1xguuVV6DGHjPaLrtx70LfAA.C8hFdwT.5va",
+        "created_at": "2025-08-11T00:00:00.000Z",
+        "updated_at": "2025-08-11T00:00:00.000Z"
+    },
+    {
+        "name": "Bob Smith",
+        "staffNumber": "SN0987654321",
+        "email": "bob.smith@example.com",
+        "phoneNumber": "0788765432",
+        "username": "josephcode",
+        "password": "$2b$10$UWdM5qznJuK.NaIId1xguuVV6DGHjPaLrtx70LfAA.C8hFdwT.5va",
+        "created_at": "2025-08-11T00:00:00.000Z",
+        "updated_at": "2025-08-11T00:00:00.000Z"
+    },
+    {
+        "name": "Carol White",
+        "staffNumber": "SN1122334455",
+        "email": "carol.white@example.com",
+        "phoneNumber": "0788123987",
+        "username": "josephcode",
+        "password": "$2b$10$UWdM5qznJuK.NaIId1xguuVV6DGHjPaLrtx70LfAA.C8hFdwT.5va",
+        "created_at": "2025-08-11T00:00:00.000Z",
+        "updated_at": "2025-08-11T00:00:00.000Z"
+    }
+]
